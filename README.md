@@ -1,5 +1,5 @@
 # legal-topic-modeling
-### Presentation (PDF): *[Raising the Bar on Attorney Response Rate: Here's How](https://github.com/tdewing19/legal-topic-modeling/blob/main/DataFest_2023_Submission.pdf)*
+### Presentation (PDF): *[Raising the Bar on Attorney Response Rate: Here's How](https://github.com/tdewing19/legal-topic-modeling/blob/main/DataFest_2023_Submission.pdf)* ⚖️
 
 <p align="center">
   <img src="https://media.istockphoto.com/id/1189997420/vector/law-and-justice-concept-justice-scales-judge-and-judge-gavel-tiny-people-in-the-supreme.jpg?s=612x612&w=0&k=20&c=VODY6psm3iRsiKR4Ll8-qY24PsrYiW6ArDlYBzaqIk0="/>
